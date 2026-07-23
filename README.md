@@ -36,32 +36,29 @@ Este projeto foi desenvolvido para demonstrar habilidades em:
 
 ---
 
-# 📷 Demonstração
+## 📊 Dashboard
 
-## Dashboard
+![Tela 1](assets/images/tela1.png)
 
-```
-assets/images/tela1.png
-assets/images/tela2.png
-
-```
-
-## Graficos
-
-assets/images/tela3.png
-assets/images/tela4.png
-assets/images/tela5.png
-assets/images/tela6.png
+![Tela 2](assets/images/tela2.png)
 
 ---
 
-## Demonstração em GIF
+## 📈 Gráficos
 
-> Grave um GIF mostrando uma pesquisa sendo realizada.
+![Gráfico 1](assets/images/tela3.png)
 
-```
-assets/gifs/demo.gif
-```
+![Gráfico 2](assets/images/tela4.png)
+
+![Gráfico 3](assets/images/tela5.png)
+
+![Gráfico 4](assets/images/tela6.png)
+
+---
+
+## 🎥 Demonstração
+
+![Demo](assets/gifs/demo.gif)
 
 ---
 
